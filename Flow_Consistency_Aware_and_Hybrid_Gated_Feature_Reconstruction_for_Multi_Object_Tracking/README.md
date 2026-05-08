@@ -14,6 +14,5 @@ The full source code and pretrained model links will be released upon paper acce
 3. Tracker/
   tools/
     lstm/
-    visualize_tracking/
 ```
 
